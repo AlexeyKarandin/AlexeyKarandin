@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexeyKarandin
 - 👀 I’m interested in backend java develop
-- 🌱 I’m currently learning java developer in skollbox.ru
+- 🌱 I’m currently learning java develop in skollbox.ru
 - 📫 How to reach me karandinalexey@gmail.com
 
 <!---
